@@ -1,4 +1,4 @@
-# SoulverCore for Windows (x86 & ARM) & Linux
+## SoulverCore for Windows (x86 & ARM) & Linux
 
 This repository contains releases of [SoulverCore](https://github.com/soulverteam/SoulverCore) built for use on Windows & Linux.
 
